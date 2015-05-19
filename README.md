@@ -35,14 +35,23 @@ The repository includes the following files:
 - 'run_analysis.R' 
 
 The run_analysis.R script completes the following operations:
+
 1) Import test data, column names, activity labels, and subject numbers
+
 2) Names the columns for each data frame and vector
+
 3) Binds the vectors to the data frame for the test data
+
 4) Repeats steps 1-3 for the training data
+
 5) Binds the training and test data to complete a merged data frame
+
 6) Identifies columns that contain mean() and std() measurements, then subsets the data frame to remove other columns
+
 7) Adds descriptive names to the ActivityLabel column
+
 8) Processes the data so that the data is averaged for each variable, for each type of action, for each subject using reshape2
+
 9) Writes the data into a file "merged_and_averaged_data.txt" 
 
 - 'CodeBook.md': 
