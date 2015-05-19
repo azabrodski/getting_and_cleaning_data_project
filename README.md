@@ -1,12 +1,10 @@
-# getting_and_cleaning_data_project
 Coursera Getting and Cleaning Data Project
 
 ==================================================================
 run_analysis.R script
 ==================================================================
 A Zabrodski
-Coursera Getting and Cleaning Data Course
-getdata-014
+Coursera Getting and Cleaning Data Course getdata-014
 ==================================================================
 
 Script Summary: 
