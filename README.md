@@ -1,12 +1,13 @@
-Coursera Getting and Cleaning Data Project
 
+Coursera Getting and Cleaning Data Project
 ==================================================================
+
 run_analysis.R script
-==================================================================
+
 A Zabrodski
 Coursera Getting and Cleaning Data Course getdata-014
-==================================================================
 
+==================================================================
 Script Summary: 
 
 Downloads the samsung accelerometer data, and merges the training and
@@ -16,7 +17,6 @@ type of action. The resulting file is a data frame that meets the requirements o
 with each row representing a single obersvation and each column a single variable
 
 ======================================
-
 Dependencies: 
 
 The script uses the "downloader" package to download and unzip the data. The requirements indicate that 
@@ -27,8 +27,8 @@ directory which is the default name when the file is unzipped
 The reshape2 package is used to average the observations by subject and observation type. It is absolutely required in order
 for the script to function properly 
 
-The repository includes the following files:
 =========================================
+The repository includes the following files:
 
 - 'README.txt'
 
