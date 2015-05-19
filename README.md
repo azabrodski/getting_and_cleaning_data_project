@@ -29,7 +29,7 @@ for the script to function properly
 =========================================
 The repository includes the following files:
 
-- 'README.txt'
+- 'README.md'
 
 - 'run_analysis.R' 
 
