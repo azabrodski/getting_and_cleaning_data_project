@@ -56,3 +56,7 @@ The run_analysis.R script completes the following operations:
 - 'CodeBook.md': 
 
 Describes the variables, the data, and transformations performed to clean up the data 
+
+- 'merged_and_averaged_data.txt': 
+
+Output from running the script, read into R by using read.table(filename, header = TRUE)
